@@ -86,9 +86,7 @@ alias 'll=ls -l'
 alias 'cl=clear'
 alias 'v=vim'
 alias 'rmall=sudo rm *'
-alias 'sshdev3=ssh ted_shiu@devm3.corp.miiicasa.com'
-alias 'sshdev4=ssh ted_shiu@devm4.corp.miiicasa.com'
-alias 'sshdev5=ssh ted_shiu@192.168.79.100'
+alias 'sshdev=ssh ted_shiu@devm3.corp.miiicasa.com'
 alias 'cdw=cd ~/WebServer/Documents'
 
 cdls() {
