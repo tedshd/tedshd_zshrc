@@ -74,7 +74,8 @@ export PATH="/usr/local/mysql/bin:$PATH"
 PATH="/Applications/Postgres.app/Contents/Versions/9.3/bin:$PATH"
 
 #Homebrew
-export PATH="/usr/local/bin:$PATH"
+# export PATH="/usr/local/bin:$PATH"
+export PATH="/opt/homebrew/bin:$PATH"
 
 #Android
 export ANDROID_HOME=/usr/local/opt/android-sdk
